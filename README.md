@@ -1,4 +1,4 @@
-## Data Analytics in Banking
+# Data Analytics in Banking
 
 In this Project we use data from a large bank and our main goal is to produce insights for the bank through the data analysis.
 
