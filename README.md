@@ -1,6 +1,4 @@
-In this Project we use data from a large bank and our main goal is to produce
-
-insights for the bank through the data analysis.
+In this Project we use data from a large bank and our main goal is to produce insights for the bank through the data analysis.
 
 Under `Data-Analysis/` we store the notebooks in which we perform the following tasks:
 
