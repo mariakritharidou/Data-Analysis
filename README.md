@@ -11,3 +11,7 @@ Under `Data-Analysis/` we store the notebooks in which we perform the following 
 * Following, we build a machine learning model in order to predict if a client will have a paid subscription-based plan 
 
   or a standard one.   
+  
+* Next, we group users based on their most descriptive characteristics. 
+
+* Finally, we define enganged vs unengaged users and make a churn prediction.   
